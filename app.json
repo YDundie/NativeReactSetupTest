@@ -1,0 +1,12 @@
+{
+  "name": "ReactNativeTest",
+  "displayName": "Test Screen",
+  "expo": {
+    "name": "ReactNativeTest",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
